@@ -18,6 +18,13 @@ Acesse as configurações do github e adicione a chave gerada
 
 Essa é achave pública. No mesmo diretório é gerada uma chave privada que não deve ser compartilhada
 
+Caso seja uma preocupação sua, lembre-se de no final da aula remover as chaves geradas na máquina local e também no GitHub, repetindo este procedimento sempre que quiser acessar o GitHub do LabGrad:
+
+```
+rm ~/.ssh/id_ed25519
+rm ~/.ssh/id_ed25519.pub
+```
+
 
 ## Configurando o usuário e o email no git
 

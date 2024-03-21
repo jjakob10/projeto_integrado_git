@@ -32,6 +32,11 @@ git config --global user.name "seunome"
 ```
 
 
+Para checar se já há algum usuário e email configurado ou chegar se as configurações foram aplicadas, use o comando a seguir
+
+```bash
+git config --list
+```
 
 
 

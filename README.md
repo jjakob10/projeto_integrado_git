@@ -47,3 +47,6 @@ A flag _'-a'_ faz o add automaticamente de todos os arquivos *modificados*. Os n
 
 
 Caso você delete um arquivo no seu diretório, estará untracked a remoção do mesmo. Você pode usar o git rm para colocar em stage a remoção.
+
+
+## TESTE

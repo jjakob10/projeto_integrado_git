@@ -32,3 +32,13 @@ git config --global user.name "seunome"
 ```
 
 
+
+
+
+
+## Fazendo commit
+
+A flag _'-a'_ faz o add automaticamente de todos os arquivos *modificados*. Os novos arquivos não são adicionados.
+
+
+Caso você delete um arquivo no seu diretório, estará untracked a remoção do mesmo. Você pode usar o git rm para colocar em stage a remoção.
